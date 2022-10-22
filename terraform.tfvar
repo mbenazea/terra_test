@@ -1,0 +1,8 @@
+region                = "us-west-1"
+ami                   = "ami-03f6d497fceb40069"
+instance_type         = "t2.micro"
+vpc-cidr              = "10.0.0.0/16"
+public_subneta-cidr   = "10.0.1.0/24"
+private_subnet-cidr   = "10.0.2.0/24"
+az                    = "us-west-1a"
+key_name              = "dev102key"
